@@ -1,0 +1,2 @@
+# Robustness-of-GDH
+This MATLAB codes used in "Robust regulation of hepatic pericentral amination by glutamate dehydrogenase kinetics" paper which is published in "Integrative Biology". This codes includes the paramiters estimation by  Monte-Carlo simulation methos preserving the experimental data. This files also includes the method for findout the direction of biochemical reaction progress when substrate concentration is increasing. The files also includes the robustness of GDH system at different biophysical conditions.
